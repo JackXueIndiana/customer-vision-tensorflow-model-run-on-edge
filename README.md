@@ -10,3 +10,5 @@ This article shows how to use Azure Cognitive Services Customer Vision service t
 - Step 7. Run the python code to classify an image.
 
 The code is from https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-model-python
+
+To run the DockFile on your PC Docker Desktop, please follow the steps in Instruction.txt
