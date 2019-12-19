@@ -1,0 +1,6 @@
+C:\Users\xinxue\Desktop\Cummins\CTCDemo\a574024b333a4066aea8de6b722d5a04.DockerFile.Linux>docker build -t ctcdemo .
+C:\Users\xinxue\Desktop\Cummins\CTCDemo\a574024b333a4066aea8de6b722d5a04.DockerFile.Linux>docker run -p 127.0.0.1:8000:80 -d ctcdemo
+C:\Users\xinxue\Desktop\Cummins\CTCDemo\a574024b333a4066aea8de6b722d5a04.DockerFile.Linux>docker ps -a
+C:\Users\xinxue\Desktop\Cummins\CTCDemo\a574024b333a4066aea8de6b722d5a04.DockerFile.Linux>docker stop containerId
+C:\Users\xinxue\Desktop\Cummins\CTCDemo\a574024b333a4066aea8de6b722d5a04.DockerFile.Linux>docker system prune -a
+
